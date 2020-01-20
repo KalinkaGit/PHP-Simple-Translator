@@ -1,6 +1,6 @@
 # PHP Simple Translator
 ![GitHub All Releases](https://img.shields.io/github/downloads/Kalinkagit/PHP-Simple-Translator/total) ![GitHub issues](https://img.shields.io/github/issues/Kalinkagit/PHP-Simple-Translator)
-PHP Simple Translator is a very simple PHP code to translate your website.
+<br/>PHP Simple Translator is a very simple PHP code to translate your website.
 
 ## Installation
 
