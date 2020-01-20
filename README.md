@@ -1,8 +1,11 @@
 # PHP Simple Translator
 ![GitHub All Releases](https://img.shields.io/github/downloads/Kalinkagit/PHP-Simple-Translator/total) ![GitHub issues](https://img.shields.io/github/issues/Kalinkagit/PHP-Simple-Translator)
 PHP Simple Translator is a very simple PHP code to translate your website.
+
 ## Installation
+
 > Requirement : PHP 5.6+
+
 Just move all files and folders in `src` to your `includes` folder as in `example`.
 Add your languages in `lang` folder, follow the `example_lang.txt`.
 
