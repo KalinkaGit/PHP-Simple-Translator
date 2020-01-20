@@ -1,4 +1,4 @@
-# PHP Simple Translator
+# PHP Simple Translator [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Free%20simple%20website%20translator%20on%20GitHub%20(PHP)!%20&url=https://github.com/KalinkaGit/PHP-Simple-Translator&via=github&hashtags=GitHub,developers,PHP)
 ![GitHub All Releases](https://img.shields.io/github/downloads/Kalinkagit/PHP-Simple-Translator/total) ![GitHub issues](https://img.shields.io/github/issues/Kalinkagit/PHP-Simple-Translator)
 <br/>PHP Simple Translator is a very simple PHP code to translate your website. (this is my first OOP project, thank you for being kind: p)
 
