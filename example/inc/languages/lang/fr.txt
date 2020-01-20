@@ -1,0 +1,5 @@
+HTML=fr
+
+/* PAGES */
+Home=Accueil
+The best text=WOW CA MARCHE MEC!

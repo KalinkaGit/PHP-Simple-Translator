@@ -1,0 +1,15 @@
+/* 
+	To add a new translation follow this example:
+*/
+
+YOURTRANSLATIONAME=TRANSLATION
+
+/*
+	Example in french:
+*/
+
+Home=Accueil
+
+/*
+	The name of the txt file is the name of your language, example: "en.txt", the name is "en"
+*/

@@ -1,0 +1,5 @@
+HTML=en
+
+/* PAGES */
+Home=Home
+The best text=WOW THAT WORK MAN!
