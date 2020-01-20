@@ -25,11 +25,11 @@ Or you can use a cookie or a DB to retrieve the language of the user, like this:
 <?php 
     require_once(__DIR__ . '/path/to/translation.php');
 
-    if (isset($_COOKIE["lang"]) && in_array($_COOKIE["lang"], array("en", "fr"))) { // Check if the cookie exist and if the lang of the cookie exist too.
+    if (isset($_COOKIE["lang"]) && in_array($_COOKIE["lang"], array("YOUR_LANGUAGE1", "YOUR_LANGUAGE2"))) { // Check if the cookie exist and if the lang of the cookie exist too.
         $translate = new Translator($_COOKIE["lang"]);
     } else { // Doesn't exist or not valid.
         setcookie("lang", "en", time() + 3600 * 24 * 30 * 12); // create the cookie.
-        $translate = new Translator("en");
+        $translate = new Translator("YOUR_LANGUAGE");
     }
 ?>
 ```
