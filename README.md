@@ -6,7 +6,7 @@ PHP Simple Translator is a very simple PHP code to translate your website.
 
 > Requirement : PHP 5.6+
 
-Just move all files and folders in `src` to your `includes` folder as in `example`.
+Just move all files and folders in `src` to your `includes` folder as in `example`.\n
 Add your languages in `lang` folder, follow the `example_lang.txt`.
 
 ## Examples
