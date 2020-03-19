@@ -1,6 +1,6 @@
 # PHP Simple Translator [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Free%20simple%20website%20translator%20on%20GitHub%20(PHP)!%20&url=https://github.com/KalinkaGit/PHP-Simple-Translator&via=github&hashtags=GitHub,developers,PHP)
 ![GitHub All Releases](https://img.shields.io/github/downloads/Kalinkagit/PHP-Simple-Translator/total) ![GitHub issues](https://img.shields.io/github/issues/Kalinkagit/PHP-Simple-Translator)
-<br/>PHP Simple Translator is a very simple PHP code to translate your website. (this is my first OOP project, thank you for being kind: p)
+<br/>PHP Simple Translator is a very simple PHP code to translate your website. (this is my first OOP project, thank you for being kind :p)
 
 ## Installation
 
@@ -19,7 +19,7 @@ You just need to put these lines in your php files:
     $translate = new Translator("YOUR_LANGUAGE"); // For example: en (like en.txt).
 ?>
 ```
-Or you can use a cookie or a DB to retrieve the language of the user, like this:
+You can use a cookie or a DB to retrieve the language of the user, like this:
 
 ```php
 <?php 
@@ -35,7 +35,7 @@ Or you can use a cookie or a DB to retrieve the language of the user, like this:
 ```
 > `en` & `fr` are the names of the TXT files in `lang` folder.
 
-To translate something your just need to use an echo function like this :
+To translate something you just need to use an echo function like this :
 ```php
 <?= $translate->trans("Home"); ?>
 ```
